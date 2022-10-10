@@ -1,0 +1,27 @@
+{
+	"name": "Vas0sky Random Stuff",
+	"version": "22.1009",
+	"packages": {
+		"arm_micro": {
+			"description": "Micro Carnage Set Pack",
+			"version": "22.1009",
+			"checksum": "fbb45be88c0b01a6057bdd46cf39dfff65d124322fdec5d40dbd8d70d8c0fd5f",
+			"url": "https://vas0sky.github.io/vas-all/arm_micro.zip",
+			"file": "arm_micro.zip"
+		},
+		"arm_fool": {
+			"description": "April Fool GFX",
+			"version": "22.1009",
+			"checksum": "541e61a5db396cf0b9a74848e15caff181f90f59bf8b82248a30e27ae881d988",
+			"url": "https://vas0sky.github.io/vas-all/arm_fool.zip",
+			"file": "arm_fool.zip"
+		},
+		"track-editor": {
+			"description": "Dummiesman's Unity Track Editor",
+			"version": "22.1009",
+			"checksum": "f04696d36b70e579c6bf645fc907a043cda1c2e4214818bbc28b1b3d966a9f3f",
+			"url": "https://vas0sky.github.io/vas-all/track-editor.zip",
+			"file": "track-editor.zip"
+		}
+	}
+}
