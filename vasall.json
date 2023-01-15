@@ -26,7 +26,7 @@
 		"rvgl_minimum": {
 			"description": "Standalone RVGL Pack",
 			"version": "23.0115",
-			"checksum": "7C3C30E92B6580F9E80A473ADEEEFFC6CA6EDA3DEC16C7664A14904E94BD4ACA",
+			"checksum": "7c3c30e92b6580f9e80a473adeeeffc6ca6eda3dec16c7664a14904e94bd4aca",
 			"url": "https://vas0sky.github.io/vas-all/rvgl_minimum.zip",
 			"file": "rvgl_minimum.zip"
 		}
